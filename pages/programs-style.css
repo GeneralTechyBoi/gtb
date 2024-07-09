@@ -29,3 +29,30 @@ body{
     padding: 5px;
     margin-left: 20px;
 }
+
+.winupgrdrpgram{
+    background-color: rgb(27, 27, 27);
+    padding: 10px;
+    margin: 10px;
+    width: 30%;
+}
+  
+.winupgrdrpgramicon{
+    height: 64px;
+    width: 64px;
+    float: left;
+    margin-right: 20px;
+    padding: 0px;
+}
+  
+.winupgrdrpgrambtn{
+    background-color: rgb(43, 43, 43);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+}
